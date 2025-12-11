@@ -71,7 +71,7 @@ cd ../..
 
 ## Data Requirements
 
-Ensure your data is properly structured in the `data/` directory:
+Ensure your data is properly structured in the `data/` directory (you have to create it and put the 4 datafolders in it):
 
 ```
 data/
